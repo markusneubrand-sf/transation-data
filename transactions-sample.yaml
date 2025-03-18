@@ -1,80 +1,80 @@
-- accountId: 001UYYY5M6GSAH8WT8
-amount: 1932.5542462166845
-subject: transaction 16180813
-date: Mon Jun 08 06:51:00 CEST 3925
-- accountId: 001IQRH0UB1C7ZSY5R
-amount: 8149.008322776024
-subject: transaction 15020048
-date: Sun Dec 06 13:16:00 CET 3925
-- accountId: 001MOZU7PR80471C7P
-amount: 138.90192209665253
-subject: transaction 15830926
-date: Mon Aug 10 02:24:00 CEST 3925
-- accountId: 0018IWU86WIP45HQHL
-amount: 549.4246772904232
-subject: transaction 17077492
-date: Fri May 08 09:49:00 CEST 3925
-- accountId: 0011V4L7GKIPPK4CT1
-amount: 1647.2571956217673
-subject: transaction 10067678
-date: Tue May 12 17:23:00 CEST 3925
-- accountId: 00125I3BZF81NHU5I4
-amount: 8935.35231535083
-subject: transaction 13785075
-date: Sat Apr 04 03:49:00 CEST 3925
-- accountId: 001GO95VUIS4ITP3BF
-amount: 1103.0791050843536
-subject: transaction 11574330
-date: Wed May 06 08:35:00 CEST 3925
-- accountId: 001MLRBQUDX52MEZEC
-amount: 7970.523388898273
-subject: transaction 10693033
-date: Tue Oct 06 17:00:00 CEST 3925
-- accountId: 001MWHE7XHC4R0GP1K
-amount: 7952.281502217422
-subject: transaction 14742374
-date: Fri Oct 02 07:13:00 CEST 3925
-- accountId: 001A9LDY9CLWR9X7FT
-amount: 6959.787486577315
-subject: transaction 18239026
-date: Thu Aug 27 10:16:00 CEST 3925
-- accountId: 001HSTO0TK65KBRQZL
-amount: 4484.51127529751
-subject: transaction 11632819
-date: Fri Jan 15 10:37:00 CET 3926
+- accountId: 001MJIIDMMFZFBKOXU
+  amount: 789.9764258851583
+  subject: transaction 18849867
+  date: Tue Jan 26 18:18:00 CET 3926
+- accountId: 0011UDNCQPRGZHF2B0
+  amount: 9148.434753359066
+  subject: transaction 19278004
+  date: Sun Jul 12 23:59:00 CEST 3925
+- accountId: 00167HUVNL5NWEZXW5
+  amount: 9831.062633765896
+  subject: transaction 15196540
+  date: Wed Dec 30 11:09:00 CET 3925
+- accountId: 001CQHI5BIM0US3Z6A
+  amount: 2385.156332494194
+  subject: transaction 11456192
+  date: Wed Nov 25 11:47:00 CET 3925
+- accountId: 001V3XC63DRQ4NU51C
+  amount: 6015.711018387874
+  subject: transaction 18640493
+  date: Sat Jan 23 16:45:00 CET 3926
+- accountId: 0014LN7F6S4MH4QPBF
+  amount: 6588.421949157234
+  subject: transaction 13510331
+  date: Fri Nov 13 23:25:00 CET 3925
+- accountId: 001RI9XELMUAT2QEZY
+  amount: 180.392593174159
+  subject: transaction 16265269
+  date: Sat May 30 06:10:00 CEST 3925
+- accountId: 0012F6BV6L9V86FAE5
+  amount: 5432.778774845256
+  subject: transaction 17159914
+  date: Tue Oct 20 03:55:00 CEST 3925
+- accountId: 001M0SSWKS9UCJY56E
+  amount: 9957.847208800937
+  subject: transaction 15316809
+  date: Tue Jun 09 09:40:00 CEST 3925
+- accountId: 001J7M6KHZIL24G9KM
+  amount: 3122.811414874079
+  subject: transaction 13841889
+  date: Wed Nov 04 13:03:00 CET 3925
+- accountId: 001AO5OT99SGJ0AYS2
+  amount: 1613.814714353755
+  subject: transaction 11216928
+  date: Wed Aug 05 08:17:00 CEST 3925
 - accountId: 001G100000QcZSPIA3
-amount: 1976.3335439988593
-subject: transaction 11418507
-date: Fri Oct 02 10:53:00 CEST 3925
+  amount: 9308.739044329835
+  subject: transaction 17902040
+  date: Wed Nov 04 02:37:00 CET 3925
 - accountId: 001G100000QcZSPIA3
-amount: 7390.001168773139
-subject: transaction 11613790
-date: Wed Nov 18 21:35:00 CET 3925
+  amount: 6784.098258731139
+  subject: transaction 14960232
+  date: Thu Feb 05 00:17:00 CET 3925
 - accountId: 001G100000QcZSPIA3
-amount: 5974.379102497899
-subject: transaction 10727063
-date: Sat Sep 05 07:53:00 CEST 3925
+  amount: 1969.8182633964288
+  subject: transaction 13988987
+  date: Wed Sep 02 06:34:00 CEST 3925
 - accountId: 001G100000QcZSPIA3
-amount: 5799.6626909967545
-subject: transaction 18833074
-date: Thu Jun 11 07:05:00 CEST 3925
+  amount: 4360.67533626612
+  subject: transaction 12728643
+  date: Tue Dec 08 00:01:00 CET 3925
 - accountId: 001G100000QcZSPIA3
-amount: 1150.938741790254
-subject: transaction 16897633
-date: Fri Oct 23 09:45:00 CEST 3925
+  amount: 4202.746931175246
+  subject: transaction 11275022
+  date: Fri Nov 06 22:08:00 CET 3925
 - accountId: 001G100000QcZSPIA3
-amount: 3475.3495859171967
-subject: transaction 19897111
-date: Fri May 15 09:25:00 CEST 3925
+  amount: 2199.407863364524
+  subject: transaction 10059652
+  date: Wed Jan 06 09:50:00 CET 3926
 - accountId: 001G100000QcZSPIA3
-amount: 7986.297692945801
-subject: transaction 14387122
-date: Fri Jun 12 14:01:00 CEST 3925
+  amount: 7619.84106073575
+  subject: transaction 12723683
+  date: Mon Oct 26 20:21:00 CET 3925
 - accountId: 001G100000QcZSPIA3
-amount: 951.9912730200219
-subject: transaction 13278377
-date: Mon Oct 26 10:31:00 CET 3925
+  amount: 4933.22042561633
+  subject: transaction 17093875
+  date: Thu Dec 17 20:23:00 CET 3925
 - accountId: 001G100000QcZSPIA3
-amount: 3996.33141049896
-subject: transaction 16936087
-date: Tue Mar 31 19:06:00 CEST 3925
+  amount: 4016.8375327766116
+  subject: transaction 12907177
+  date: Thu Aug 20 10:51:00 CEST 3925
